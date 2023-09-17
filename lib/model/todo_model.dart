@@ -19,4 +19,8 @@ class TodoModel {
       completed: map['completed'],
     );
   }
+
+  static TodoModel stub() {
+    return TodoModel(userId: 1, id: 1, title: 'test', completed: true);
+  }
 }
