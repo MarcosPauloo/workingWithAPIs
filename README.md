@@ -1,16 +1,11 @@
-# flutter_playground
+# Studying external APIs
 
-A new Flutter project.
+A new Flutter project .
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+New flutter project to learn about external APIs through Jacob Moura's class from the Flutterando channel.
 
-A few resources to get you started if this is your first Flutter project:
+Project using the Dart language with the Flutter framework to learn about the Dio, Uno and Http APIs.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Lesson link: https://www.youtube.com/watch?v=PUQEd7xRldM&ab_channel=JacobMouradaFlutterando
